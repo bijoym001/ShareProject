@@ -19,7 +19,7 @@ export default function Sidebar({ activePage, setActivePage }) {
           A
         </div>
         <div>
-          <h1 className="text-3xl font-bold tracking-tighter text-gray-800">BM DashBoard</h1>
+          <h1 className="text-3xl font-bold tracking-tighter text-gray-800">AM DashBoard</h1>
           <p className="text-xs text-blue-600">Enterprise Dashboard</p>
         </div>
       </div>
